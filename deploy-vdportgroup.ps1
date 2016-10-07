@@ -1,4 +1,4 @@
-﻿$csv = 
+﻿$csv = .\deploy-cdportgroups.csv
 $vdportgroup = Import-Csv -UseCulture
 
 foreach ($vdportgroup in $vdportgroups){ 
