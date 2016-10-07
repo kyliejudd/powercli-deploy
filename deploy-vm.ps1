@@ -1,6 +1,6 @@
 ﻿#collect variables from user 
 $vcentercred = (Get-Credential) 
-$csvinput =  
+$csvinput =  .\deploy.csv
 $csv = import-csv $csvinput -UseCulture
 
 #import vmware powershell snapin
