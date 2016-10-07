@@ -1,0 +1,10 @@
+Name, Vdswitch, vlanid, location
+Portgroup_3721, dvswitch0, 3721,Production 
+Portgroup_3249, dvswitch0, 3249,Production 
+Portgroup_2676, dvswitch0, 2676,Production 
+Portgroup_3720, dvswitch0, 3720,Production 
+Portgroup_3248, dvswitch0, 3248,Production 
+Portgroup_2675, dvswitch0, 2675,Production 
+Portgroup_3719, dvswitch0, 3719,Production 
+Portgroup_3247, dvswitch0, 3247,Production 
+Portgroup_2674, dvswitch0, 2674,Production 
