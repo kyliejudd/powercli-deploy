@@ -1,0 +1,7 @@
+vmname,template,Cluster,vcenter,datastore
+redhat-test1,Redhat7.1-SatelliteClient-0.2,cluster01,vcenter01,datastore01
+redhat-test2,Redhat7.1-SatelliteClient-0.2,cluster01,vcenter01,datastore01
+redhat-test3,Redhat7.1-SatelliteClient-0.2,cluster01,vcenter01,datastore01
+redhat-test4,Redhat7.1-SatelliteClient-0.2,cluster01,vcenter01,datastore01
+redhat-test5,Redhat7.1-SatelliteClient-0.2,cluster01,vcenter01,datastore01
+
